@@ -139,6 +139,6 @@ class Api {
   }
   }
   // Замените на адрес вашего бэкенда
-  const api = new Api('http://api.mesto.ritarixter.nomoredomainsclub.ru');
+  const api = new Api('https://api.mesto.ritarixter.nomoredomainsclub.ru');
 
   export default api;
